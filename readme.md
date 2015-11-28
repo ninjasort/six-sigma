@@ -38,6 +38,15 @@ by identifying and removing causes of defects and minizing variability in manufa
 - [Taguchi methods](https://en.wikipedia.org/wiki/Taguchi_methods)
 - [Taguchi loss function](https://en.wikipedia.org/wiki/Taguchi_loss_function)
 - [Value stream mapping](https://en.wikipedia.org/wiki/Value_stream_mapping)
+- [Statistical Process Control](https://en.wikipedia.org/wiki/Statistical_process_control)
+- [Statistics](https://en.wikipedia.org/wiki/Statistics)
+- [Poka Yoke](https://en.wikipedia.org/wiki/Poka-yoke)
+- [Sensitivity and specificity](https://en.wikipedia.org/wiki/Sensitivity_and_specificity)
+- [Statistical Power](https://en.wikipedia.org/wiki/Statistical_power)
+- [Reproducibility](https://en.wikipedia.org/wiki/Reproducibility)
+- [Validity](https://en.wikipedia.org/wiki/Validity_(statistics))
+- [Dependent and Independent Variables](https://en.wikipedia.org/wiki/Dependent_and_independent_variables)
+- [Sequential Analysis](https://en.wikipedia.org/wiki/Sequential_analysis)
 
 ### Implementation Roles
 
