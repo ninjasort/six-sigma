@@ -8,8 +8,8 @@ by identifying and removing causes of defects and minizing variability in manufa
 ### Methodologies
 
 - [5 Whys](https://en.wikipedia.org/wiki/5_Whys)
-- [Statistical and fitting tools]()
-  - [Analysis of variance]()
+- Statistical and fitting tools
+  - [Analysis of variance](https://en.wikipedia.org/wiki/Analysis_of_variance)
   - [General linear model]()
   - [ANOVA Gauge R&R]()
   - [Regression analysis]()
